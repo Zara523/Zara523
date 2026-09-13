@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zara+Arshad;Computer+Science+Student;AI+%26+App+Development+Enthusiast)](https://git.io/typing-svg)
-
 <h1 align="center">Hi there 👋, I'm Zara Arshad</h1>
 <h3 align="center">Computer Science Student </h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zara+Arshad;Computer+Science+Student;AI+%26+App+Development+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
