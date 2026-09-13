@@ -21,8 +21,8 @@ status:     Open to internships, collaborations & learning opportunities ✨
 - 🌐 Also into Web Development — building responsive, interactive websites
 - 💻 Passionate about software development and problem solving
 - 🌱 Always learning and improving my programming skills
-- 📫 Reach me at rubabwaheedsatti@gmail.com
-- 🔗 More about me on my LinkedIn
+- 📫 Reach me at zara.arshad1919@gmail.com
+- 🔗 More about me on my [LinkedIn]
 
 ---
 ### 🛠 Tech Stack / Languages
@@ -36,6 +36,7 @@ status:     Open to internships, collaborations & learning opportunities ✨
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms**
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -43,18 +44,14 @@ status:     Open to internships, collaborations & learning opportunities ✨
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
-```
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-```
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zara523&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zara523&theme=radical)
 
 ### 📈 Contribution Graph
-```
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
-```
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Zara523&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zara523&theme=react-dark)
 
 ---
 
@@ -92,5 +89,5 @@ HTML5 · CSS3 · JavaScript — Sep 2024 - Feb 2025 A multi-page sports blog wit
 ---
 
 ### ⭐ Let's Connect
-If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out on [LinkedIn](your-linkedin-url) or drop me an email. Always happy to connect with fellow students and developers!
+If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out on [LinkedIn](your-linkedin-url) or drop me an [email]. Always happy to connect with fellow students and developers!
 
