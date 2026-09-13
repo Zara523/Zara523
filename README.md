@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi there 👋, I'm Zara Arshad</h1>
 <h3 align="center">Computer Science Student </h3>
 
@@ -10,27 +12,35 @@ role:       Computer Science Student
 degree:     BS Computer Science (2024 – 2028)]
 institute:  Institute of Space Technology (IST), Islamabad
 interests:  App Development, Artificial Intelligence
-status:     
+status:     Open to internships, collaborations & learning opportunities ✨
 ```
 
-🎓 Currently pursuing BSCS at the Institute of Space Technology (IST) 2024 – 2028
-🤖 Interested in Artificial Intelligence
-💙 A genuine C++ enthusiast — I enjoy working with OOP, data structures & algorithms, and low-level programming
-🌐 Also into Web Development — building responsive, interactive websites
-💻 Passionate about software development and problem solving
-🌱 Always learning and improving my programming skills
-📫 Reach me at rubabwaheedsatti@gmail.com
-🔗 More about me on my LinkedIn
+- 🎓 Currently pursuing BSCS at the Institute of Space Technology (IST) 2024 – 2028
+- 🤖 Interested in Artificial Intelligence
+- 💙 A genuine C++ enthusiast — I enjoy working with OOP, data structures & algorithms, and low-level programming
+- 🌐 Also into Web Development — building responsive, interactive websites
+- 💻 Passionate about software development and problem solving
+- 🌱 Always learning and improving my programming skills
+- 📫 Reach me at rubabwaheedsatti@gmail.com
+- 🔗 More about me on my LinkedIn
 
 ---
+### 🛠 Tech Stack / Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
- Tech Stack / Languages
-HTML5 CSS3 JavaScript C++ Python Assembly SQL Oracle
-
-Tools & Platforms
-
-VS Code Git GitHub Figma Adobe Illustrator Photoshop
-
+**Tools & Platforms**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -49,53 +59,38 @@ VS Code Git GitHub Figma Adobe Illustrator Photoshop
 ---
 
 ### 🎓 Education
-🏫 **[Degree Name]** — [Institute Name], [City] · [Start Year] – [End Year]
+🏫 BS Computer Science — Institute of Space Technology (IST), Islamabad 2024 – 2028
 
 ---
 
 ### 🚀 Projects
 
-🔷 **[Project Name 1]**
-`[Tech 1]` · `[Tech 2]` · `[Tech 3]` — [Month Year] - [Month Year]
-[One to two sentence description of what the project does and what you built/learned.]
+🔷 Bank Management System
+C++ · OOP · File I/O — Feb 2025 - Jul 2025 A banking application supporting account creation, deposits, withdrawals, fund transfers, and statement generation. Models Savings and Current account types using inheritance and virtual functions, with persistent storage via file handling and proper validation.
 
-🔷 **[Project Name 2]**
-`[Tech 1]` · `[Tech 2]` — [Month Year] - [Month Year]
-[Description here.]
+🔷 Rent-A-Car Website with Database Backend
+HTML5 · CSS3 · JavaScript · SQL · PL/SQL · Oracle DB — Feb 2025 - Jul 2025 A full car rental platform combining a responsive frontend with a normalized relational database backend covering vehicles, customers, bookings, and payments. Implemented PL/SQL stored procedures and triggers to automate booking confirmations.
 
-🔷 **[Project Name 3]**
-`[Tech 1]` · `[Tech 2]` — [Month Year] - [Month Year]
-[Description here.]
+🔷 Hotel Management System
+C++ · OOP · File Handling — Sep 2024 - Feb 2025 A hotel reservation system managing room bookings, guest check-in/check-out, billing, and room availability. Rooms, guests, and reservations modeled as class objects with encapsulation and operator overloading, with file I/O for persistent records.
+
+🔷 Sports Fanatics Blog
+HTML5 · CSS3 · JavaScript — Sep 2024 - Feb 2025 A multi-page sports blog with sections for news, match highlights, and player profiles. Built mobile-first using CSS Grid and Flexbox, with JavaScript-powered search/filtering, a dark/light mode toggle, and smooth scroll navigation.
 
 > 📌 More details and visuals for these projects are on my [LinkedIn](your-linkedin-url).
 
 ---
 
 ### 🎯 Goals
-- 🤖 [Goal 1]
-- ⚙️ [Goal 2]
-- 🌐 [Goal 3]
-- 🤝 [Goal 4]
-- 🎯 [Goal 5]
+
+- 🤖 Deepen my knowledge in Artificial Intelligence
+- ⚙️ Get stronger in C++, Data Structures & Algorithms
+- 🌐 Keep building modern, responsive web projects
+- 🤝 Contribute to open-source and collaborate with other developers
+- 🎯 Land an internship in software development / AI
 
 ---
 
 ### ⭐ Let's Connect
 If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out on [LinkedIn](your-linkedin-url) or drop me an email. Always happy to connect with fellow students and developers!
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)## Hi there 👋
-
-<!--
-**Zara523/Zara523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
